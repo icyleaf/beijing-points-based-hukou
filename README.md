@@ -1,5 +1,7 @@
 # 北京积分落户数据库
 
+> 仓库英文名称来源：http://www.chinadaily.com.cn/beijing/2016-01/29/content_23357375.htm
+
 ## 2018 年
 
 [官方名单查询](http://www.bjrbj.gov.cn/integralpublic/settleperson/settlePersonTable/)
