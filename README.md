@@ -6,6 +6,12 @@
 
 错过了官方名单公示期，如果有提供的话欢迎联系我啊~
 
+外链资料：
+ 
+- 2019 年: [1](https://blog.csdn.net/minstyrain/article/details/102642906)
+- 2020 年: [1](https://blog.csdn.net/minstyrain/article/details/83691030) [2](https://v2ex.com/t/715326)
+
+
 ## 2018 年
 
 [官方名单查询](http://www.bjrbj.gov.cn/integralpublic/settleperson/settlePersonTable/)
