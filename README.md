@@ -2,6 +2,10 @@
 
 > 仓库英文名称来源：http://www.chinadaily.com.cn/beijing/2016-01/29/content_23357375.htm
 
+## 2019 ~ 2021 年
+
+错过了官方名单公示期，如果有提供的话欢迎联系我啊~
+
 ## 2018 年
 
 [官方名单查询](http://www.bjrbj.gov.cn/integralpublic/settleperson/settlePersonTable/)
