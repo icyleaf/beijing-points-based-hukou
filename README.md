@@ -1,6 +1,10 @@
 # 北京积分落户数据库
 
-> 仓库英文名称来源：http://www.chinadaily.com.cn/beijing/2016-01/29/content_23357375.htm - **已失效**
+![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E5%8C%97%E4%BA%AC%E5%B8%82%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%B1%80-red)
+
+## 2022 年
+
+[关于2022年积分落户公示及落户办理有关工作的通告](http://rsj.beijing.gov.cn/ywsite/jflh/gg/202207/t20220711_2768217.html)
 
 ## 2019 ~ 2021 年
 
@@ -3479,3 +3483,7 @@
 1. 易智瑞（北京）软件研发中心有限公司 (1)
 1. 北京筑维建筑装饰工程有限公司 (1)
 </details>
+
+## 资料参考
+
+- [仓库英文名称来源](http://www.chinadaily.com.cn/beijing/2016-01/29/content_23357375.htm) - **已失效**
