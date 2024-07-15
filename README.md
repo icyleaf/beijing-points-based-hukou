@@ -2,6 +2,16 @@
 
 ![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E5%8C%97%E4%BA%AC%E5%B8%82%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%B1%80-red)
 
+## 2024 年
+
+[北京市人力资源和社会保障局关于2024年积分落户公示及落户办理有关工作的通告](https://rsj.beijing.gov.cn/xxgk/2024qt/202407/t20240715_3749762.html)
+
+## 2023 年
+
+错过了官方名单公示期，如果有提供的话欢迎联系我啊~
+
+[关于2023年积分落户公示及落户办理有关工作的通告](https://rsj.beijing.gov.cn/xxgk/tzgg/202307/t20230710_3158580.html)
+
 ## 2022 年
 
 [关于2022年积分落户公示及落户办理有关工作的通告](http://rsj.beijing.gov.cn/ywsite/jflh/gg/202207/t20220711_2768217.html)
