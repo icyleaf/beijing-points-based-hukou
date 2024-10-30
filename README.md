@@ -8,9 +8,9 @@
 
 ## 2023 年
 
-错过了官方名单公示期，如果有提供的话欢迎联系我啊~
-
 [关于2023年积分落户公示及落户办理有关工作的通告](https://rsj.beijing.gov.cn/xxgk/tzgg/202307/t20230710_3158580.html)
+
+感谢 [@wuzhefang](https://github.com/wuzhefang) 提供的数据支持。 [#3](https://github.com/icyleaf/beijing-points-based-hukou/issues/3)
 
 ## 2022 年
 
@@ -20,14 +20,13 @@
 
 [官方名单查询](http://fuwu.rsj.beijing.gov.cn/jf2021integralpublic/settleperson/settlePersonTable)
 
-错过了官方名单公示期，如果有提供的话欢迎联系我啊~
+2019 年错过了官方名单公示期，如果有提供的话欢迎联系我啊~
 
 外链资料：
  
 - 2019 年: [1](https://blog.csdn.net/minstyrain/article/details/102642906)
 - 2020 年: [1](https://blog.csdn.net/minstyrain/article/details/83691030) [2](https://v2ex.com/t/715326)
 - 2021 年: [1](http://m.bj.bendibao.com/news/295994.html)
-
 
 ## 2018 年
 
