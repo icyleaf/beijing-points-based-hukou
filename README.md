@@ -20,7 +20,7 @@
 
 [关于2022年积分落户公示及落户办理有关工作的通告](http://rsj.beijing.gov.cn/ywsite/jflh/gg/202207/t20220711_2768217.html)
 
-## 2019 ~ 2021 年
+## 2019 年
 
 [官方名单查询](http://fuwu.rsj.beijing.gov.cn/jf2021integralpublic/settleperson/settlePersonTable)
 
